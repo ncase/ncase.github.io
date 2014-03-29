@@ -46,7 +46,7 @@ a:hover{
 	height: 0;
 }
 #banner > div > div:nth-child(1){
-	top:0;
+	top:-3px; /*hacky fix*/
 	border-left: 75px solid transparent;
 	border-right: 0px solid transparent;
 	border-top: 170px solid #000;
