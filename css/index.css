@@ -12,6 +12,12 @@ a{
 a:hover{
 	color:#ee4949;
 }
+a.homelink{
+	color:inherit;
+}
+a.homelink:hover{
+	color:inherit;
+}
 
 /** HEADER **/
 #header{
@@ -69,7 +75,7 @@ a:hover{
 	letter-spacing: 5px;
 	z-index: 1;
 }
-#navigation a{
+#navigation a.navlink{
 	color:#aaa;
 	text-decoration: none;
 
@@ -79,7 +85,7 @@ a:hover{
 	transition: color 0.2s ease-in-out;
 
 }
-#navigation a:hover{
+#navigation a.navlink:hover{
 	color:#000;
 }
 
