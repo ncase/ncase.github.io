@@ -105,6 +105,9 @@ a.homelink:hover{
 	transition: opacity 0.2s ease-in-out;
 
 }
+#content > a:first-child > div{
+	margin-top:20px;
+}
 #content > a{
 	text-decoration: none;
 }
@@ -120,6 +123,9 @@ a.homelink:hover{
 	text-align: center;
 	line-height: 50px;
 	color:#000;
+}
+#content > a > div > div:nth-child(2) > span{
+	color:#aaa;
 }
 
 
