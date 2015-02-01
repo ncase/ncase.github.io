@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/ncase
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ncase.me
+  * I am ncase (https://keybase.io/ncase) on keybase.
+  * I have a public key with fingerprint 2D0C 2313 B579 E0C2 8826  34BC 9AC7 0F41 2765 91F5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2d0c2313b579e0c2882634bc9ac70f41276591f5",
+            "host": "keybase.io",
+            "key_id": "9ac70f41276591f5",
+            "kid": "010160fc022c87945e775bb75f97df44120edf78d0975ac76a8033297cb79b2a0b420a",
+            "uid": "605ff7fe4ca34a02dbb871203ebfe000",
+            "username": "ncase"
+        },
+        "service": {
+            "hostname": "ncase.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1422757150,
+    "expire_in": 157680000,
+    "prev": "48e721da756548eefd4317d49a403b40bab57a47baa8311d26ee9d31907f178b",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMITAnicbVJdSFRBGN01DTPUNFJTSrtYGC0y92/n3qUXcSGlLTSthJW2mXvn6k29
+d91dNVusl5IQTQQrg0y0N/tRilCkxD8qi0jCtIyg8qWspB4C7UeaKwU99DTfnO+c
+M9+ZmYnYNbYY++SSZ/zhrdLr9sejco2t+ElLepjBplrPuMJMBVldNN0oIwF/QDdC
+jIvhVKBwPMtjEcqElpLEOXkBKzJSINAEloNOUWY1kXEw5WbQUlAbjIIkWzcpRjc+
+XaXof/gVqw3AAtYJNAVwnCJBWRAJhCLGUNRkqGoCVQCialBSgQxFauJEEuB5ToYK
+hjLmEMACBxC1q1m1cwJR06BGBAXxAgKcirEEqQdPsEYAABYxSAIGqiKUbSh0UqbB
+wVCoVleIld+K8W87m5YOxh8wQ6ZiVlK0PBTyuyxRqN5vseoI9v3R+7BuqPT+qKCW
+BIK6aTAuljKVkG4ZsgLHQRGyInAw5LhfDxCfbjFE6JTobMA6htRSS0EikGNVBEWn
+SGuiqQLPQlWQkQB4LACM6HsgAWKEJJ5lVc5JiKzyrAygxkIJM1aiasNkXAIdE5VR
+y6BeZqBQTYDGHRspjbTZY2xroyKsH2CLWbfh779IcEfbOms74zvOje0cmBn1z178
+VHGyR/WGti1sksLJ0T1xG2FcI37f/fNs3yl9h3xm8EjBkDe/cnSyt+B1dV7rfc/B
+S3JzSV5D5mJhlrvwxVThcFbqdFfGfNSv2w3m0O5vrQvLjqX+rQO+vNyUiITvXNiX
+MVD00pX05hDXfnSlf7H5gjitBg/PTh14FDzW2Nfx/M5be2rb+LIDFec8nesyPtZV
+O7xbUq6VRJe+2ru598fXz/MzYWP/5ZHYoCd+ZSExMvPqjcF769Nzt9/s9qY43MMf
+EovTJtpbyFxad1u3JwcV7TvfZK9Kqnv3rKMtgsm/y54IVDYln/7ivvKgxb2np3DX
+zG99syFo
+=3Xyk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ncase
+
+==================================================================
