@@ -96,14 +96,19 @@ a.homelink:hover{
 	margin:0 auto;
 }
 #content > a > div{
-	width:100%; height:250px;
-	margin-bottom:25px;
+	width: 390px;
+	height:150px;
+	margin-bottom:20px;
+	float: left;
 
 	-webkit-transition: opacity 0.2s ease-in-out;
 	-moz-transition: opacity 0.2s ease-in-out;
 	-ms-transition: opacity 0.2s ease-in-out;
 	transition: opacity 0.2s ease-in-out;
 
+}
+#content > a > div:nth-child(odd){
+	margin-right: 10px;
 }
 #content > a:first-child > div{
 	margin-top:20px;
@@ -114,19 +119,30 @@ a.homelink:hover{
 #content > a:hover > div{
 	opacity: 0.7;
 }
-#content > a > div > div:nth-child(1){
-	width:798px; height:198px;
-	border: 1px solid #ddd;
-	background-size: 800px 200px;
+#content > a > div > img{
+	width: 388px;
+	border: 1px solid #eee;
+	margin-bottom: 5px; 
 }
-#content > a > div > div:nth-child(2){
-	width:100%; height:50px;
-	text-align: center;
-	line-height: 50px;
+#content > a > div > div{
+
 	color:#000;
+	font-size: 18px;
+	line-height: 21px;
+	text-align: left;
+
+	width:100%; height:50px;
+
 }
-#content > a > div > div:nth-child(2) > span{
+#content > a > div > div > span{
 	color:#aaa;
+}
+#content > .section{
+	clear:both;
+	text-align: center;
+	letter-spacing: 10px;
+	margin-top: 35px;
+	margin-bottom: 25px;
 }
 
 
