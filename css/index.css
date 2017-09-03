@@ -21,62 +21,40 @@ a.homelink:hover{
 
 /** HEADER **/
 #header{
+	
 	width:100%;
-	height:300px;
+
 	overflow: hidden;
+	
+	text-align: center;
+	background: #000;
+	color: #fff;
+	
+}
+#nav{
+	width: 100%;
+	max-width:800px;
+	height: 120px;
+	margin:0 auto;
 	position: relative;
 }
-#banner{
-	width:100%;
-	height:200px;
-	background:#000;
-	position: fixed;
-	overflow: hidden;
-	top:30px;
-}
-#banner > div{
-	background:#fff;
-	width:75px;
-	height:100%;
+#nav_names{
 	position: absolute;
-	margin:auto;
-	top:0;bottom:0;left:0;right:0;
-	border-left-width: 10px;
-	border-right-width: 10px;
-	border-color: #fff;
-	border-style: solid;
+	left:0;
+	bottom:20px;
+	font-size:60px;
+	letter-spacing: 4px;
 }
-#banner > div > div{
+#nav_buttons{
 	position: absolute;
-	width: 0;
-	height: 0;
+	right:0;
+	bottom:30px;
+	color:#333;
+	font-size: 25px;
+	letter-spacing: 1px;
 }
-#banner > div > div:nth-child(1){
-	top:-3px; /*hacky fix*/
-	border-left: 75px solid transparent;
-	border-right: 0px solid transparent;
-	border-top: 170px solid #000;
-}
-#banner > div > div:nth-child(2){
-	bottom:0;
-	border-left: 0px solid transparent;
-	border-right: 75px solid transparent;
-	border-bottom: 170px solid #000;
-}
-#navigation{
-	position: absolute;
-	top:220px;
-	width:100%;
-	height:80px;
-	text-align: center;
-	line-height: 80px;
-	background: #fff;
-	font-size: 28px;
-	letter-spacing: 3px;
-	z-index: 1;
-}
-#navigation a.navlink{
-	color:#aaa;
+#nav a.navlink{
+	color:#666;
 	text-decoration: none;
 
 	-webkit-transition: color 0.2s ease-in-out;
@@ -85,21 +63,40 @@ a.homelink:hover{
 	transition: color 0.2s ease-in-out;
 
 }
-#navigation a.navlink:hover{
-	color:#000;
+#nav a.navlink:hover{
+	color:#fff;
+}
+@media (max-width: 800px){
+	#nav{
+		text-align: center;
+		padding-top: 20px;
+	}
+	#nav_names{
+		width: 100%;
+	}
+	#nav_names, #nav_buttons{
+		position: static;
+		display: inline-block;
+	}
 }
 
 
 /** CONTENT **/
 #content{
-	width:800px;
+	width: 100%;
+	max-width:800px;
 	margin:0 auto;
+	text-align: center;
+	padding: 20px 0;
 }
 #content > a > div{
+
+	display: inline-block;
+    overflow: hidden;
 	width: 390px;
 	height:150px;
 	margin-bottom:20px;
-	float: left;
+	/*float: left;*/
 
 	-webkit-transition: opacity 0.2s ease-in-out;
 	-moz-transition: opacity 0.2s ease-in-out;
@@ -107,17 +104,15 @@ a.homelink:hover{
 	transition: opacity 0.2s ease-in-out;
 
 }
-#content > a > div:nth-child(odd){
-	margin-right: 10px;
-}
 #content > a:first-child > div{
 	margin-top:20px;
 }
 #content > a{
 	text-decoration: none;
+	display: inline-block;
 }
 #content > a:hover > div{
-	opacity: 0.7;
+	opacity: 0.5;
 }
 #content > a > div > img{
 	width: 388px;
@@ -131,43 +126,49 @@ a.homelink:hover{
 	line-height: 21px;
 	text-align: left;
 
-	width:100%; height:50px;
+	width:100%;
 
 }
 #content > a > div > div > span{
 	color:#aaa;
 }
 #content > .section{
+	font-size: 25px;
 	clear:both;
 	text-align: center;
 	letter-spacing: 10px;
 	margin-top: 40px;
 	margin-bottom: 25px;
 }
+@media (max-width: 800px){
+	#mc_signup_thing{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	#mc_signup_thing_text{
+		font-size: 42px;
+	}
+}
 
 
 /** FOOTER **/
 #footer{
 	width:100%;
-	height:260px;
 	overflow: hidden;
 	position: relative;
-	visibility: hidden;
 }
 #footer_banner{
 	width:100%;
-	height:200px;
 	background:#000;
-	position: fixed;
 	overflow: hidden;
 	bottom:30px;
 }
 #footer_banner > div{
-	position: absolute;
-	width:100%; padding:50px 0;
+	width:100%;
+	padding:50px 0;
 	text-align: center;
 	color:#fff;
-	letter-spacing: 5px;
-	line-height: 42px;
-	font-size: 20px;
+	letter-spacing: 2px;
+    line-height: 28px;
+    font-size: 18px;
 }
