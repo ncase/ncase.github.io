@@ -1,7 +1,21 @@
+/** Font Faces**/
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 100;
+	src: url(font/OpenSans-Light.ttf) format('truetype');
+}
+/*@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: url(font/OpenSans-Bold.ttf) format('truetype');
+}*/
+
 body{
 	margin:0;
 	background: #fff;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans';
 	font-size: 25px;
 	font-weight: 100;
 }
@@ -70,6 +84,7 @@ a.homelink:hover{
 	#nav{
 		text-align: center;
 		padding-top: 20px;
+		padding: 20px 0;
 	}
 	#nav_names{
 		width: 100%;
@@ -133,12 +148,16 @@ a.homelink:hover{
 	color:#aaa;
 }
 #content > .section{
+	/*font-weight: 700;*/
 	font-size: 25px;
 	clear:both;
 	text-align: center;
 	letter-spacing: 10px;
 	margin-top: 40px;
 	margin-bottom: 25px;
+}
+#mc_signup_thing_text{
+	font-size: 44px;
 }
 @media (max-width: 800px){
 	#mc_signup_thing{
@@ -171,4 +190,11 @@ a.homelink:hover{
 	letter-spacing: 2px;
     line-height: 28px;
     font-size: 18px;
+    max-width: calc(100% - 40px);
+    margin: 0 auto;
+}
+@media (max-width: 800px){
+	#footer_banner > div{
+		font-size: 16px;
+	}
 }
