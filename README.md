@@ -1,4 +1,4 @@
-###[Nicky Case's website](http://ncase.me)
+### [Nicky Case's website](http://ncase.me)
 
 Minimalist design for a static website. Not much to it. Good.
 
