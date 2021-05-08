@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		
+		<atom:link href="https://ncase.me/feed.xml" rel="self" type="application/rss+xml"/>
+		<title>Nicky's New Shtuff</title>
+		<link>https://ncase.me/</link>
+		<description>New Shtuff from Nicky Case</description>
+		<language>en-CA</language>
+		<pubDate>Fri, 01 May 2020 08:00:00 GMT</pubDate>
+		<lastBuildDate>Fri, 01 May 2020 08:00:00 GMT</lastBuildDate>
+
+		<item>
+			<title>“What Happens Next?” Possible Covid Futures Explained</title>
+			<link>https://ncase.me/covid-19/</link>
+			<description>A new explorable explanation, in collaboration with an epidemiologist</description>
+			<pubDate>Fri, 01 May 2020 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">0000000003</guid>
+			<content:encoded>
+			<![CDATA[
+
+				<p><img alt="" src="https://ncase.me/archive/files/covid-19.gif" style="width: 600px; height: 300px;"></p>
+
+				<p><strong>Here you go, the most "deep dive" explorable I've ever made</strong>
+				 – epidemiology 101, the proposed COVID-19 interventions, and some 
+				best/worst-case-scenarios... explained with playable pictures:</p>
+
+				<p><strong>😷 “What Happens Next?” (30 min read/play) 😷</strong><br>
+				<strong>👉 <a href="https://ncase.me/covid-19/">https://ncase.me/covid-19/</a> 👈</strong></p>
+
+				<p>This was made in collaboration with epidemiologist Marcel Salathé!&nbsp; And if you'd like, <a href="https://twitter.com/ncasenmare/status/1256299135868813312">here's a tweet with&nbsp;video trailer</a>, for your re-tweeting pleasure.</p>
+
+				<p>I hope this interactive guide gives you hope – not the "downplay 
+				danger" kind, but the "here's a sword and shield" kind. &nbsp;We can 
+				still beat COVID-19, in a way <em>that also protects our mental &amp; financial health.</em></p>
+
+				<p>Stay safe, and fight on, y'all.</p>
+
+				<p>✊,<br>
+				~ Nicky Case</p>
+
+			]]>
+			</content:encoded>
+		</item>
+
+		<item>
+			<title>Adventures With Anxiety! 😱🐺</title>
+			<link>https://ncase.me/anxiety/</link>
+			<description>A new interactive story about anxiety, where you *are* the anxiety.</description>
+			<pubDate>Sun, 01 Sep 2019 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">0000000002</guid>
+			<content:encoded>
+			<![CDATA[
+
+				<p><img alt="" src="https://ncase.me/archive/files/sep2019.gif" style="width: 600px; height: 315px;"></p>
+			
+				<p>Finally!</p>
+
+				<p>🐺 <a href="https://ncase.me/anxiety/">https://ncase.me/anxiety/</a> &nbsp;🐺<br>
+				😱 free, web, 30 min playtime &nbsp;😱</p>
+
+				<p>And if you (or someone you know) is struggling, and looking to tame 
+				that wolf – I've also written a "companion piece" for this game, with <a href="https://ncase.me/mental-health/">Mental Health Tips &amp; Resources + a personal story of my own mental health journey</a>!</p>
+
+				<p>I sincerely hope this story-game is helpful to you and/or folks close
+				 to you. To whoever you are: you're not alone in this, stay determined, 
+				good luck. 💖</p>
+
+				<p>AAAHHHH,<br>
+				~ Nicky Case</p>
+
+			]]>
+			</content:encoded>
+		</item>
+
+		<item>
+			<title>Adventures With Anxiety (Demo)</title>
+			<link>https://ncase.me/anxiety-demo/</link>
+			<description>Demo for a new interactive story!</description>
+			<pubDate>Wed, 01 May 2019 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">0000000001</guid>
+			<content:encoded>
+			<![CDATA[
+
+				<p><img alt="" src="https://ncase.me/archive/files/may2019.gif" style="width: 400px; height: 210px;"></p>
+
+				<p>After a year of being dead, the Nicky Newsletter is back! With a 
+				brand-new demo of an interactive story, about a human with anxiety 
+				disorder.</p>
+
+				<p>You play <em>as</em>&nbsp;the anxiety disorder.</p>
+
+				<p>😱 <strong><a href="https://ncase.me/anxiety-demo/">ADVENTURES WITH ANXIETY</a></strong> 😱<br>
+				🐺 (Demo. Playtime: 7 min) 🐺</p>
+
+				<p>Also, since it's been 13 months since I killed this newsletter (due 
+				to cost issues), I understand if you don't want more updates! If you 
+				don't, no need to do anything! <strong>If you <i>do </i>want to stay updated, please re-consent here:</strong>&nbsp;[re-consent link]</p>
+
+				<p>Either way, thank you for supporting me thus far!</p>
+
+				<p><strong>&lt;3,</strong>
+				<br>
+				~ Nicky Case
+				</p>
+
+			]]>
+			</content:encoded>
+		</item>
+
+	</channel>
+</rss>
