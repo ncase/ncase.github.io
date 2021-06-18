@@ -81,7 +81,7 @@ h2{
 #footer{
 	max-width: 550px;
 	text-align: center;
-	margin-bottom:80px;
+	padding-bottom:80px;
 }
 .grid{
 	overflow:hidden;
@@ -112,7 +112,7 @@ h2{
 .grid > a > div > img{
 	width: 388px;
 	border: 1px solid #eee;
-	margin-bottom: 5px; 
+	margin-bottom: 5px;
 }
 .grid > a > div > div{
 	color:#000;
@@ -127,7 +127,7 @@ h2{
 
 .web10{
 	position: absolute;
-	width:70px; 
+	width:70px;
 	height:70px;
 	background: url(web10.png);
 	background-size: 200% 100%;
