@@ -191,13 +191,15 @@ Sadly, coding (and STEM) has this aura of "beware, mad geniuses only". So, let's
 
 **HTML: making sites.** Go to [Neocities.org](https://neocities.org/), sign up for a free account, and do their interactive tutorial on HTML. By the end, you'll have your *very own public website you can share.* A manifesto? A personal page for your cat? Links to your favorite slashfics? The sky's the limit!
 
-**CSS: making sites look pretty.** Download the Stylus add-on ([Firefox](https://addons.mozilla.org/en-CA/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)). *[Note: Stylus with an "us", NOT Stylish. Stylish is malware!]* Go to a website that distracts you, click the add-on, then "Write New Style". Paste the CSS code: `body{ filter: grayscale(100%); }`. *This turns the site black & white,* so it's less attention-grabbing! With CSS and Stylus, you can modify all websites to fit *your* needs – hide YouTube comments, hide the "approve our cookies" popup, or make everything Comic Sans.
+**CSS: making sites look pretty.** Download the Stylus add-on ([Firefox](https://addons.mozilla.org/en-CA/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)). *[Note: Stylus with an "us", NOT Stylish. Stylish is malware!]* Go to a website that distracts you, click the add-on, then "Write New Style". Paste the CSS code: `body{ filter: grayscale(100%); }`. *This turns the site black & white,* so it's less attention-grabbing! With CSS and Stylus, you can modify how websites look, to fit *your* needs – hide YouTube comments, hide the "approve cookies" popup, or make everything Comic Sans.
 
-For HTML & CSS: I haven't gone through it fully, but [Khan Academy's HTML/CSS course](https://www.khanacademy.org/computing/computer-programming/html-css) looks great. It's free, with interactive tutorials!
+To learn CSS: [Khan Academy's HTML/CSS course](https://www.khanacademy.org/computing/computer-programming/html-css) is free, with interactive tutorials!
 
 **JavaScript: making sites do things.** [Khan Academy's Intro to JavaScript](https://www.khanacademy.org/computing/computer-programming/programming) is chockful of interactive tutorials where you draw & animate things with code. It's fun! And the foundations it teaches you apply to *all* modern programming languages, not just JavaScript.
 
-If you go into *web* development, you already have one half of the toolkit: a web browser. The other half is a code editor: I recommend [Atom](https://atom.io/) (free, open-source). For web hosting, I use [Github Pages](https://pages.github.com/) (free).
+Finally, the most important note – if you're ever unsure how to do something, do what the pros do: look it up online, copy-paste sample code, and stitch it together until your monster comes alive.
+
+(Tools: for a code editor, I use [Atom](https://atom.io/). For web hosting, I use [Github Pages](https://pages.github.com/). For domain names, I use [Namecheap](https://www.namecheap.com/).)
 
 ### Making games
 
