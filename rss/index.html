@@ -33,7 +33,9 @@
 
 	<!-- Stylin' -->
 	<link rel="stylesheet" href="css/index.css"/>
-
+	<style>
+		li{margin-bottom:20px}
+	</style>
 
 </head>
 <body>
@@ -128,49 +130,70 @@
 			But what to subscribe to?
 			Selfishly, might I recommend...
 		</p>
-		<p>
-			🕹 <b>My New Projects</b> – shtuff to help you learn & play.
-			<br>
-			<i>(1 thing per few months, each thing takes <30 min to play)</i>
-			<br>
-			paste link into reader:
-			<input onclick="this.select();" style="width: 11em;" value="https://ncase.me"></input>
-			or <a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fncase.me%2Ffeed.xml%2F'>direct feedreader link</a>
-		</p>
+		<ul>
+
+			<li>
+				🕹 <b>My New Projects</b>
+				– stuff to help you learn and play.
+				<br>
+				<i>(1 thing per few months, each thing takes &lt;30 min to play)</i>
+				<br>
+				<a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fncase.me%2Ffeed.xml'>feedreader</a>
+				&middot;
+				<a target='_blank' href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fncase.me%2Ffeed.xml'>feedly</a>
+				&middot;
+				<a target='_blank' href='https://ncase.me/feed.xml'>direct feed</a>
+			</li>
+
+		</ul>
+
 		<p>
 			I also find these feeds consistently life-enriching:
 		</p>
-		<p>
-			웃 <b>xkcd</b> – a nerdy stick-figure comic.
-			<br>
-			<i>(3 comics per week, each comic takes ~1 min to read)</i>
-			<br>
-			link:
-			<input onclick="this.select();" style="width: 11em;" value="https://xkcd.com"></input>
-			or <a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fxkcd.com%2Frss.xml'>feedreader</a>
-		</p>
-		<p>
-			🤔 <b>Scott Young's Blog</b> – blog about learning & habits.
-			<br>
-			<i>(once or twice a week, each article ~5–10 min long)</i>
-			<br>
-			link:
-			<input onclick="this.select();" style="width: 11em;" value="https://www.scotthyoung.com/blog/"></input>
-			or <a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fwww.scotthyoung.com%2Fblog%2Ffeed%2F'>feedreader</a>
-		</p>
-		<p>
-			🥧 <b>3Blue1Brown</b> – math visualized with beauty and rigor.
-			<br>
-			<i>(1 video per month, each video <30 min long)</i>
-			<br>
-			link:
-			<input onclick="this.select();" style="width: 11em;" value="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"></input>
-			or <a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCYO_jab_esuFRV4b17AJtAw'>feedreader</a>
-			<br>
-			<i>(Yes, you can get YouTube updates via RSS!
-			Feedreader opens videos in a new link,
-			but others like Feedly can embed videos in the reader itself)</i>
-		</p>
+		<ul>
+
+			<li>
+				웃 <b>xkcd</b> – a nerdy stick-figure comic.
+				<br>
+				<i>(3 comics per week, each comic takes ~1 min to read)</i>
+				<br>
+				<a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fxkcd.com%2Frss.xml'>feedreader</a>
+				&middot;
+				<a target='_blank' href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fxkcd.com%2Frss.xml'>feedly</a>
+				&middot;
+				<a target='_blank' href='https://xkcd.com/rss.xml'>direct feed</a>
+			</li>
+
+			<li>
+				🤔 <b>Scott Young's Blog</b> – blog about learning & habits.
+				<br>
+				<i>(once or twice a week, each article ~5–10 min long)</i>
+				<br>
+				<a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fwww.scotthyoung.com%2Fblog%2Ffeed%2F'>feedreader</a>
+				&middot;
+				<a target='_blank' href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.scotthyoung.com%2Fblog%2Ffeed%2F'>feedly</a>
+				&middot;
+				<a target='_blank' href='https://www.scotthyoung.com/blog/feed/'>direct feed</a>
+			</li>
+
+			<li>
+				🥧 <b>3Blue1Brown</b> – math visualized with beauty and rigor.
+				<br>
+				<i>(1 video per month, each video &lt;30 min long)</i>
+				<br>
+
+				<a target='_blank' href='https://feedreader.com/online/#/add/https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCYO_jab_esuFRV4b17AJtAw'>feedreader</a>
+				&middot;
+				<a target='_blank' href='https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCYO_jab_esuFRV4b17AJtAw'>feedly</a>
+				&middot;
+				<a target='_blank' href='https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw'>direct feed</a>
+				<br>
+				<i>(Yes, you can get YouTube updates via RSS!
+				Feedreader opens videos in new tab,
+				but others like Feedly can embed videos in the reader itself)</i>
+			</li>
+
+		</ul>
 		<p>
 			Finally, a warning:
 		</p>
