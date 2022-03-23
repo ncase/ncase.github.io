@@ -131,13 +131,13 @@ h2{
 	height:70px;
 	background: url(web10.png);
 	background-size: 200% 100%;
-	bottom: 6px;
+	top: -17px;
 }
 .web10#news{
-	left: calc(50% - 372px);
+	left: calc(50% - 362px);
 }
 .web10#rss{
-	right: calc(50% - 372px);
+	right: calc(50% - 362px);
 	background-position: -100%;
 }
 
