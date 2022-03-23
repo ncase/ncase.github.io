@@ -4,7 +4,7 @@ I am become Sisyphus, and the inbox is my boulder.
 
 I can't give each email a thoughtful response, but I'd feel dirty giving a *thoughtless* response. So, I wrote this FAQ to give you thoughtful answers *now*, rather than have you wait 4+ weeks for a useless reply. Check it out!
 
-* [I've sent you a fan letter!](#toc_1)
+* [I want to send you a fan letter!](#toc_1)
 * [May I reuse/remix your work?](#toc_2)
 * [May I translate your work?](#toc_3)
 * [I noticed your work on platform X – was that allowed?](#toc_4)
@@ -23,11 +23,13 @@ I can't give each email a thoughtful response, but I'd feel dirty giving a *thou
 	* [good mental health?](#toc_17)
 * [[My actual contact info]](#toc_18)
 
-### I've sent you a fan letter!
+### I want to send you a fan letter!
 
 Awww 💖 Thank you!  I sincerely mean that.  I most likely won't be able to reply (I Am Bad At Emails) but I promise you I read each fan letter, and put them in a folder labelled "awww", so I can re-read them whenever I'm feeling down:
 
 ![I Am Bad At Emails]()
+
+IMPORTANT NOTE: If your fan letter is of a sensitive nature – for example, if you're a closeted teen writing to me about Coming Out Simulator – *please make an alternate email account, send your letter from that, then log out of that account and clear that part of your internet history.* Alas, some parents do not respect others' privacy, and will secretly read your emails.
 
 ### May I reuse/remix your work?
 
@@ -49,7 +51,7 @@ Legally yes, since all my stuff is public domain (see [above answer]).
 
 However, if the uploader is *pretending to be me,* that's probably against the platform's impersonation rules! So, to be clear:
 
-**I HAVE NEVER PUBLISHED ANYTHING ON THE APP STORE, OR ON STEAM.**
+**I HAVE NEVER PUBLISHED ANYTHING ON THE iOS/ANDROID APP STORE, OR ON STEAM.**
 
 Full list of where I *do* publish stuff: [my website](https://ncase.me/), [itch.io](https://ncase.itch.io/), [Vimeo](https://vimeo.com/ncase), [YouTube](https://www.youtube.com/channel/UC2_zZ8QA-J3r-UiATQImmWg), [Newgrounds](https://nutcasenightmare.newgrounds.com/). (But my ancient Flash games are all over the place: Kongregate, ArmorGames, and others I'm forgetting)
 
@@ -57,7 +59,7 @@ If my stuff is somewhere I didn't post it, but 1) it's labelled "[Fan Port]" or 
 
 ### May I commission you / interview you / invite you to do a talk?
 
-I'm currently on hiatus, so sadly no!  I'm very flattered though.  But if you'd like another maker of Explorable Explanations to work with, check out the other creators at [Explorabl.es](https://explorabl.es/)!
+Sadly, I'm way too over capacity!  I'm very flattered though.  But if you'd like another maker of Explorable Explanations to work with, check out the other creators at [Explorabl.es](https://explorabl.es/) and contact them!
 
 ### I have a suggestion / fix / idea for a project!
 
@@ -77,7 +79,7 @@ DOB: September 11th, 1994
 
 Sex: Infrequent
 
-Pronouns: I'm *personally* ok with any pronoun, but if you need to pick one for a blog post or Wiki article, they/them works!
+Pronouns: I'm *personally* ok with any pronoun, but if you need to pick one for a blog post or Wiki article, she/her or they/them works!
 
 Citizenship: Canada (born in Singapore)
 
