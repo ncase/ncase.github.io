@@ -7,8 +7,37 @@
 		<link>https://ncase.me/</link>
 		<description>New Shtuff from Nicky Case</description>
 		<language>en-CA</language>
-		<pubDate>Thu, 07 Jul 2022 08:00:00 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Jul 2022 08:00:00 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Aug 2022 08:00:00 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Aug 2022 08:00:00 GMT</lastBuildDate>
+
+		<item>
+			<title>New project! Nutshell: make expandable explanations</title>
+			<link>https://ncase.me/covid-19/</link>
+			<description>a tool to make expandable explanations</description>
+			<pubDate>Wed, 17 Aug 2022 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">0000000005</guid>
+			<content:encoded>
+			<![CDATA[
+
+				<p><img alt="" src="https://ncase.me/nutshell/promo/trailer/trailer.gif" style="width: 500px; height: 312px;" /></p>
+
+				<p>After 2 years of procrastinating on this project... it's finally out! My first post-burnout-hiatus interactive thingy:</p>
+
+				<p>🥜 <strong>Nutshell: make *expandable* explanations</strong>  🥜<br />
+				👉 <a href="https://ncase.me/nutshell/">https://ncase.me/nutshell/</a> 👈</p>
+
+				<p>This is a tool for writers, to let their readers dive into details. Not shown in the above .gif, are two other "killer features": 1) you can embed snippets of text <em>from other authors & websites</em>, even stuff written years ago! And 2) you can embed interactives, YouTube videos, and the intros of Wikipedia articles.</p>
+
+				<p>If you're writing a blog, news articles, code documentation, educational material, etc... I hope Nutshell helps you help <em>your</em> readers.</p>
+
+				<p>(See you next month... for explainers written <em>with</em> Nutshell!)</p>
+
+				<p>Cheers,<br />
+				~ Nicky Case</p>
+
+			]]>
+			</content:encoded>
+		</item>
 
 		<item>
 			<title>I gave a mini-talk at Stanford! "How to Explain Things Real Good"</title>
