@@ -7,8 +7,22 @@
 		<link>https://ncase.me/</link>
 		<description>New Shtuff from Nicky Case</description>
 		<language>en-CA</language>
-		<pubDate>Wed, 17 Aug 2022 08:00:00 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Aug 2022 08:00:00 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 08:00:00 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 08:00:00 GMT</lastBuildDate>
+
+		<item>
+			<title>AI Safety for Fleshy Humans: a whirlwind tour</title>
+			<link>https://aisafety.dance/</link>
+			<description>a friendly tour of the core ideas of AI Safety, with robot catboy comics</description>
+			<pubDate>Tue, 14 May 2024 08:00:00 GMT</pubDate>
+			<guid isPermaLink="false">0000000006</guid>
+			<content:encoded>
+			<![CDATA[
+				<p>Manually updating RSS is annoying and hard, so here's just the link:</p>
+				<p>👉 <a href="https://aisafety.dance/">https://aisafety.dance/</a> 👈</p>
+			]]>
+			</content:encoded>
+		</item>
 
 		<item>
 			<title>New project! Nutshell: make expandable explanations</title>
